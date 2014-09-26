@@ -1,0 +1,11 @@
+# IntelliJ ignores
+/.idea
+*.iml
+*.eml
+/target
+/build
+/bin
+
+# Eclipse ignores
+.classpath
+.project
